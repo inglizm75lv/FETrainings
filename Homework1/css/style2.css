@@ -1,0 +1,29 @@
+table {
+    height: 300px ;
+    width: 600px;
+    border:solid black;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid grey;
+}
+#box1 {
+    width: 250px;
+    height: 150px;
+}
+#box2 {
+    width: 350px;
+    height: 75px;
+}
+#box3, #box4 {
+    height: 75px;
+}
+
+
+#box5, #box6, #box7, #box8, #box9, #box10, #box11, #box12, #box12 {
+    height: 50px;
+}
+#box1, #box2, #box3, #box4 {
+    border: 2px solid black;
+}
+
